@@ -1,0 +1,11 @@
+state: enabled
+email: sunilkumar.x.amujuri@questdiagnostics.com
+fullname: 'sunil kumar'
+title: Developer
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$7ecaGwN4//2/xHa9oCE3K.6aojLNjH8TrJYdbJnrkvnx.T.qYYBXi
